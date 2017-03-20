@@ -2,7 +2,7 @@
 This is an app for drafting quick animations on your Nspire calculator.
 It has a number of helpful features for enhanced productivity.
 
-[demo]("https://github.com/mattrossman/nspire-animator/blob/master/img/demo.gif" "Demonstration")
+![demo]("https://github.com/mattrossman/nspire-animator/blob/master/img/demo.gif" "Demonstration")
 
 ## Features:
 - Draw with the touchpad
