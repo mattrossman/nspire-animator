@@ -2,7 +2,7 @@
 This is an app for drafting quick animations on your Nspire calculator.
 It has a number of helpful features for enhanced productivity.
 
-![demo]("http://imgur.com/Xkp2lUr.gif" "Demonstration")
+<iframe src='https://gfycat.com/ifr/VioletImperfectKite' frameborder='0' scrolling='no' width='640' height='423' allowfullscreen></iframe>
 
 ## Features:
 - Draw with the touchpad
