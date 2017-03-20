@@ -2,7 +2,7 @@
 This is an app for drafting quick animations on your Nspire calculator.
 It has a number of helpful features for enhanced productivity.
 
-![Image](https://raw.githubusercontent.com/mattrossman/nspire-animator/master/img/demo.gif)
+![Image](/img/demo.gif)
 
 ## Features:
 - Draw with the touchpad
@@ -36,4 +36,4 @@ It has a number of helpful features for enhanced productivity.
 - **Backspace:** delete selected stroke
 
 ## To install
-Download the [Animator.tns](Animator.tns) file and transfer it to your calculator throught the TI Student Software or similar Computer Link software.
+Download the [Animator.tns](Animator.tns?raw=true) file and transfer it to your calculator throught the TI Student Software or similar Computer Link software.
