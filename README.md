@@ -1,10 +1,10 @@
-#Animator for TI Nspire
+# Animator for TI Nspire
 This is an app for drafting quick animations on your Nspire calculator.
 It has a number of helpful features for enhanced productivity.
 
-[demo]("/img/demo.gif" "Demonstration")
+[demo]("https://github.com/mattrossman/nspire-animator/blob/master/img/demo.gif" "Demonstration")
 
-##Features:
+## Features:
 - Draw with the touchpad
 - Navigate through your animation frames
 - Onion-skin view of previous frame
@@ -13,4 +13,4 @@ It has a number of helpful features for enhanced productivity.
 - Quickly duplicate frames
 - Adjust playback framerate
 
-##Controls
+## Controls
