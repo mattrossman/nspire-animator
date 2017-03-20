@@ -2,8 +2,7 @@
 This is an app for drafting quick animations on your Nspire calculator.
 It has a number of helpful features for enhanced productivity.
 
-<img src="/img/demo.gif?raw=true" alt="Drawing" style="width: 100px; float: left"/>
-<img src="/img/demo2.gif?raw=true" alt="Drawing" style="width: 100px; float: left"/>
+![demo](img/demo.gif?raw=true)
 
 ## To install
 Download the [Animator.tns](Animator.tns?raw=true) file and transfer it to your calculator throught the TI Student Software or similar Computer Link software.
