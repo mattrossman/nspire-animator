@@ -33,4 +33,7 @@ It has a number of helpful features for enhanced productivity.
 ### Selection mode
 - **Cursor click:** select stroke
 - **Cursor move:** move selected stroke
-- **Backspace:** delete selected stroke 
+- **Backspace:** delete selected stroke
+
+## To install
+Download the [Animator.tns](Animator.tns) file and transfer it to your calculator throught the TI Student Software or similar Computer Link software.
